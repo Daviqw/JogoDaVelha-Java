@@ -6,7 +6,6 @@ public class JogoDaVelha_Davi {
 
     public static void main(String[] args) {
         // Var's & Scan
-    	
         char velha[][] = new char[3][3];
         int posicao, cont = 0;
         char Jogador1, Jogador2 = ' ';
